@@ -1,0 +1,14 @@
+읕7_segments
+   읕main  0/264  Ram=1
+      쳐??0??
+      쳐@const59  0/15  Ram=0
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@const59  0/15  Ram=0
+      쳐@const59  0/15  Ram=0
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@const59  0/15  Ram=0
+      쳐@const59  0/15  Ram=0
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@const59  0/15  Ram=0
+      쳐@const59  0/15  Ram=0
+      읕@delay_ms1  0/20  Ram=1
